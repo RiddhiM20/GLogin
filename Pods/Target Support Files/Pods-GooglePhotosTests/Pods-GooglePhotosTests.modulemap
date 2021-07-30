@@ -1,0 +1,6 @@
+framework module Pods_GooglePhotosTests {
+  umbrella header "Pods-GooglePhotosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
